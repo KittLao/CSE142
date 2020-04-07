@@ -4,7 +4,6 @@ Farris Tang 1662953 fktang@ucsc.edu
 ReadMe for problem 4
 
 Output:
-college9-169-233-127-4:FilesForA2P4 kitianlao$ python KNN.py --K 3 --method L2
 K value:  3 method:  L2
 Instance:  1 Label:  -1
 Instance:  2 Label:  1
