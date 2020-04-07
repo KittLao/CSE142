@@ -1,0 +1,76 @@
+Kit Lao, 1705333, kilao@ucsc.edu
+Farris Tang 1662953 fktang@ucsc.edu
+
+ReadMe for problem 4
+
+Output:
+college9-169-233-127-4:FilesForA2P4 kitianlao$ python KNN.py --K 3 --method L2
+K value:  3 method:  L2
+Instance:  1 Label:  -1
+Instance:  2 Label:  1
+Instance:  3 Label:  1
+Instance:  4 Label:  1
+Instance:  5 Label:  1
+Instance:  6 Label:  1
+Instance:  7 Label:  -1
+Instance:  8 Label:  1
+Instance:  9 Label:  1
+Instance:  10 Label:  -1
+Problem 2
+2811
+Problem 3
+2750.458689018979
+Problem 4
+2750
+Problem 5
+[-1, -1, 1, -1, 1]
+Problem 6
+K value:  1
+[(1, -1), (2, 1), (3, 1), (4, 1), (5, 1), (6, -1), (7, -1), (8, 1), (9, 1), (10, -1)]
+K value:  3
+[(1, -1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, -1), (8, 1), (9, 1), (10, -1)]
+K value:  5
+[(1, -1), (2, 1), (3, -1), (4, 1), (5, -1), (6, 1), (7, -1), (8, 1), (9, 1), (10, -1)]
+K value:  720
+[(1, -1), (2, -1), (3, -1), (4, -1), (5, -1), (6, -1), (7, -1), (8, -1), (9, -1), (10, -1)]
+Problem 7
+Instance:  1
+L1:  1
+L2:  1
+Linf:  1
+Instance:  2
+L1:  1
+L2:  -1
+Linf:  -1
+Instance:  3
+L1:  -1
+L2:  -1
+Linf:  -1
+Instance:  4
+L1:  1
+L2:  1
+Linf:  1
+Instance:  5
+L1:  -1
+L2:  -1
+Linf:  -1
+Instance:  6
+L1:  1
+L2:  1
+Linf:  1
+Instance:  7
+L1:  1
+L2:  1
+Linf:  1
+Instance:  8
+L1:  -1
+L2:  -1
+Linf:  -1
+Instance:  9
+L1:  -1
+L2:  -1
+Linf:  -1
+Instance:  10
+L1:  -1
+L2:  -1
+Linf:  -1
